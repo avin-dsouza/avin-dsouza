@@ -1,6 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h1 align="center">Hello, I'm avin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -11,12 +10,8 @@
 <!-- About Me Section -->
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Tech Stack or Topics]**
-- 📫 How to reach me **[Email or LinkedIn]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 🔭 I’m currently working on **mini project - study material**
+- 🌱 I’m currently learning **Python, java, HTML-CSS, etc**
 
 ---
 
@@ -44,22 +39,11 @@
 
 ---
 
-<!-- Top Languages -->
-## 📘 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <!-- Social Links -->
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/avin-dsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 ---
