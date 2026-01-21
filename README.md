@@ -52,5 +52,5 @@
 <p align="center">"Strive not to be a success, but rather to be of value." – Albert Einstein</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=avin-dsouza&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
